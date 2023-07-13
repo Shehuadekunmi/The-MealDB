@@ -1,0 +1,9 @@
+.about-section{
+    height: 70vh;
+}
+.banner{
+    background-image:url(./assets/fried-chicken-legs-with-lemon-parsley_266870-44.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
